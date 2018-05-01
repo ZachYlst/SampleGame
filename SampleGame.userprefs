@@ -1,1 +1,19 @@
-﻿<Properties StartupConfiguration="{FEC278B7-31A9-43DB-AEF6-A1AD043F56C8}|Default" />
+﻿<Properties StartupConfiguration="{FEC278B7-31A9-43DB-AEF6-A1AD043F56C8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleGame/Controller/SpaceGame.cs">
+    <Files>
+      <File FileName="SampleGame/Controller/SpaceGame.cs" Line="261" Column="5" />
+      <File FileName="SampleGame/Controller/Program.cs" Line="14" Column="32" />
+      <File FileName="SampleGame/Model/Player.cs" Line="70" Column="4" />
+      <File FileName="SampleGame/View/Animation.cs" Line="9" Column="3" />
+      <File FileName="SampleGame/View/ParallaxingBackground.cs" Line="74" Column="4" />
+      <File FileName="SampleGame/Model/Enemy.cs" Line="124" Column="3" />
+      <File FileName="SampleGame/Model/Projectile.cs" Line="89" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SampleGame PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
